@@ -1,5 +1,5 @@
 # DDK_automatic_finger
-* It is a machine to imitate finger in touch validation of screen.
+* It is a machine to imitate finger in touch validations of screen.
 * This is an idea.
 <br><br/>
 
