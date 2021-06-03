@@ -4,8 +4,8 @@ This is an idea.
 <br><br/>
 
 ## Background
-* When developing products of touch screens, we should imitate users' finger to validate behavior of the screens before selling. 
-* Howerver, it is really silly to use the real finger to do this routine for several times. 
+* When developing products of touch screens, we should imitate users' finger to validate the behavior of touch screens before selling. 
+* Howerver, it is really silly to use real fingers to do this routine for several times. 
 <br><br/>
 
 ## Features
